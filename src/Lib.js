@@ -62,12 +62,12 @@ class Lib extends Component {
           <Result
             icon={<SvgIcon name="smile" style={style.svgIcon} />}
             title="请使用 PC 端打开排版工具"
-            subTitle="更多 Markdown Nice 信息，请扫码关注公众号「编程如画」"
+            subTitle="更多 Markdown Markdown Nice 信息，请扫码关注公众号「JavaPub」"
             extra={
               <img
                 alt=""
                 style={{width: "100%"}}
-                src="https://imgkr.cn-bj.ufileos.com/22cf98bd-3f85-45fc-9df7-e6b2808329d0.png"
+                // src="https://imgkr.cn-bj.ufileos.com/22cf98bd-3f85-45fc-9df7-e6b2808329d0.png"
               />
             }
           />
