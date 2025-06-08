@@ -68,9 +68,9 @@ class AboutDialog extends Component {
             id="nice-about-dialog-github"
             rel="noopener noreferrer"
             target="_blank"
-            href="https://github.com/whaoa/markdown-nice"
+            href="https://github.com/Rodert/markdown-nice"
           >
-            &nbsp;本项目 GitHub 仓库&nbsp;
+            &nbsp; 本项目 GitHub 仓库 &nbsp;
           </a>
         </p>
       </Modal>
